@@ -2,6 +2,8 @@
 
 The chapter gives readers the conceptual map they need before touching any dataset. Its key contribution is not just the market / fundamental / alternative taxonomy, but the claim that every dataset embeds definitions about timestamps, adjustments, identifiers, and revisions, and that these choices determine what the data actually means in research.
 
+**Study guide (FA):** [STUDY_GUIDE_FA.md](STUDY_GUIDE_FA.md) — walkthrough of §§2.1–2.5 with check-understanding Q&A, linked to the notebooks below.
+
 ## Learning Objectives
 
 * Distinguish among market, fundamental, and alternative data, and explain how dataset definitions shape what each source means in research and trading applications
